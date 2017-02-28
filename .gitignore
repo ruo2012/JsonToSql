@@ -1,0 +1,12 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/src/.vs
+/src/JsonToSql/bin/Debug
+/src/JsonToSql/obj/Debug
+/src/JsonToSql/bin/Debug
+/src/JsonToSqlDemo/bin
+/src/JsonToSqlDemo/obj/Debug
+/src/JsonToSqlTests/bin/Debug
+/src/JsonToSqlTests/obj/Debug
